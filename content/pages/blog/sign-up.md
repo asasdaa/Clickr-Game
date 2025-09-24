@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Sign up
+title: Sign u
 date: '2025-09-24'
 author: content/data/person1.json
 excerpt: >-
