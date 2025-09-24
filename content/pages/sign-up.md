@@ -3,7 +3,7 @@ type: PageLayout
 title: Sign up
 sections:
   - type: PricingSection
-    subtitle: This is the subtitle for the pricing section
+    subtitle: ''
     plans:
       - type: PricingPlan
         title: Developers
