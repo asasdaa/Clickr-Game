@@ -47,6 +47,13 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
     badge:
       type: Badge
       label: Contact Us
