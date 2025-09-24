@@ -51,7 +51,7 @@ sections:
         type: SubmitButtonFormControl
         label: Create Account
         showIcon: true
-        icon: arrowRight
+        icon: chevronBigRight
         iconPosition: right
         style: primary
     badge:
