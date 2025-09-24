@@ -54,10 +54,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-primary
     colors: bg-light-fg-dark
 slug: sign-up
 seo:
