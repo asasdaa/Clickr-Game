@@ -46,7 +46,7 @@ bottomSections:
           width: full
         - type: TextFormControl
           name: password
-          label: Name
+          label: password
           hideLabel: true
           placeholder: Your name
           isRequired: true
