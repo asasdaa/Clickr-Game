@@ -50,7 +50,7 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Create Account
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
