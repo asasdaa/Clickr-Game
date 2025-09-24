@@ -22,7 +22,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: How can we help?
+      text: Sign up now to make an account!
       color: text-dark
     subtitle: ''
     text: ''
