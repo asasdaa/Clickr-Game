@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: ''
-date: '2025-09-24'
+date: ''
 excerpt: ''
 featuredImage:
   type: ImageBlock
