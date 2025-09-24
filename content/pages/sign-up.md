@@ -59,15 +59,6 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-  - type: PricingSection
-    subtitle: ''
-    plans: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 slug: sign-up
 seo:
   type: Seo
