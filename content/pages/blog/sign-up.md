@@ -48,7 +48,7 @@ bottomSections:
           name: password
           label: password
           hideLabel: true
-          placeholder: Password
+          placeholder: password
           isRequired: true
           width: full
         - type: CheckboxFormControl
