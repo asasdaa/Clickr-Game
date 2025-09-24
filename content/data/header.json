@@ -75,7 +75,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "https://clickrgame.netlify.com/signup",
+            "url": "https://clickrgame.netlify.app/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
