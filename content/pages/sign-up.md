@@ -30,11 +30,6 @@ sections:
           placeholder: Your name
           isRequired: true
           width: full
-        - type: CheckboxFormControl
-          name: terms
-          label: I have read and accept the legal terms.
-          isRequired: false
-          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
