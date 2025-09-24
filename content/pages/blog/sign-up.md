@@ -2,7 +2,6 @@
 type: PostLayout
 title: Sign u
 date: '2025-09-24'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
