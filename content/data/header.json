@@ -83,7 +83,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://clickrgame.netlify.app/login/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
