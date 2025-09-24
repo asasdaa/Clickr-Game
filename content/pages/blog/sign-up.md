@@ -85,7 +85,7 @@ bottomSections:
           borderRadius: large
     colors: bg-light-fg-dark
 slug: sign-up
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
