@@ -2,9 +2,7 @@
 type: PostLayout
 title: ''
 date: '2025-09-24'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
