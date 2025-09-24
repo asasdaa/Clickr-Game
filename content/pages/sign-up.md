@@ -49,7 +49,7 @@ sections:
           borderRadius: large
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Create Account
         showIcon: true
         icon: arrowRight
         iconPosition: right
