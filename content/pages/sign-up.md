@@ -51,7 +51,7 @@ sections:
         type: SubmitButtonFormControl
         label: Create Account
         showIcon: true
-        icon: mail
+        icon: vimeo
         iconPosition: right
         style: primary
     badge:
