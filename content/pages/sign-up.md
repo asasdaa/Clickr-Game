@@ -51,7 +51,7 @@ sections:
         type: SubmitButtonFormControl
         label: Create Account
         showIcon: true
-        icon: github
+        icon: linkedin
         iconPosition: right
         style: primary
     badge:
