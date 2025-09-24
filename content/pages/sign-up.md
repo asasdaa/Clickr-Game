@@ -35,12 +35,6 @@ sections:
           label: I have read and accept the legal terms.
           isRequired: false
           width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Create Account
-        icon: arrowRight
-        iconPosition: right
-        style: primary
       elementId: contact-form
       styles:
         self:
