@@ -49,6 +49,13 @@ bottomSections:
           label: I have read and accept the legal terms.
           isRequired: false
           width: full
+        - type: TextFormControl
+          name: password
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
