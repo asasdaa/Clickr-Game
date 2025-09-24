@@ -51,7 +51,7 @@ sections:
         type: SubmitButtonFormControl
         label: Create Account
         showIcon: true
-        icon: play
+        icon: linkedin
         iconPosition: right
         style: primary
     badge:
