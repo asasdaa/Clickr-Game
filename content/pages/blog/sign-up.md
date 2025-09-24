@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Sign u
+title: ''
 date: '2025-09-24'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
