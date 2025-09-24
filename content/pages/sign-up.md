@@ -3,10 +3,6 @@ type: PageLayout
 title: Sign up
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic Section With A Form
-      color: text-dark
     subtitle: Section with a form subtitle
     text: ''
     actions: []
