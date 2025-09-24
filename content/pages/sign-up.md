@@ -3,7 +3,7 @@ type: PageLayout
 title: Sign up
 sections:
   - type: GenericSection
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: ''
     actions: []
     media:
